@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1584783078 source:e:\backgammon\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1584783078 source:c:\users\86175\desktop\Îå×ÓÆå³ÌÐò-ºúÃÎ¿µ-1190200505\backgammon\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1585820833 source:e:\backgammonaiprogram\backgammon_2.0.2\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
+1585824676 source:c:\users\Ç®Ôó¿­\desktop\backgammon_2.0.2\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+

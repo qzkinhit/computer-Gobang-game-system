@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1584783078 source:e:\backgammon\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1584783078 source:c:\users\86175\desktop\五子棋程序-胡梦康-1190200505\backgammon\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1584788587 source:c:\users\钱泽凯\desktop\五子棋程序-胡梦康-1190200505\backgammon\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1585631020 source:c:\users\钱泽凯\desktop\人工智能五子棋研究\backgammon\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
